@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://2fdi2lk1wo0m"
+path="res://.godot/imported/car-crash-sticker-logo-icon-vector-accident-automobile-logo-car-crash-icons-vector-isolated-background-eps-10_399089-1084.webp-ac15b31b3bc8a52437824ebd7c27be92.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Projek/CODING COURSE/Web/ANJAY/car-crash-sticker-logo-icon-vector-accident-automobile-logo-car-crash-icons-vector-isolated-background-eps-10_399089-1084.webp"
+dest_files=["res://.godot/imported/car-crash-sticker-logo-icon-vector-accident-automobile-logo-car-crash-icons-vector-isolated-background-eps-10_399089-1084.webp-ac15b31b3bc8a52437824ebd7c27be92.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
